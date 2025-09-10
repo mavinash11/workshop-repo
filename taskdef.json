@@ -69,6 +69,5 @@
     "status": "ACTIVE",
     "taskDefinitionArn": "arn:aws:ecs:us-east-1:646616111480:task-definition/webapp-devops-workshop:4",
     "taskRoleArn": "arn:aws:iam::646616111480:role/devops-cluster-TaskRole-VtqylRUHnBvB",
-    "volumes": [],
-    "tags": []
+    "volumes": []
 }
